@@ -4,6 +4,7 @@ from random import randint
 pygame.init()
 
 WIDTH, HEIGHT = 800, 600 #рамка игры
+
 FPS = 60 #частота кадров
 
 window = pygame.display.set_mode((WIDTH, HEIGHT)) #открыть рамку
